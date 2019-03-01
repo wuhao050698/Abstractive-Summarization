@@ -1,0 +1,17 @@
+<ROUGE-EVAL version="1.0">
+<EVAL ID="1">
+<PEER-ROOT>
+/home/intern/wu/Global-Encoding-master/data/ans2
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/intern/wu/Global-Encoding-master/data/ans2
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="X">valid.tgt.id</P>
+</PEERS>
+<MODELS><M ID="A">valid.src.id</M>
+</MODELS>
+</EVAL>
+</ROUGE-EVAL>
